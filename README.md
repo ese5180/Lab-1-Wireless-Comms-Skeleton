@@ -1,4 +1,4 @@
-# ESE5180 - Lab 0 Wireless Comms
+# ESE5180: Lab 0 Wireless Comms
 
 **Group Number:**
 
